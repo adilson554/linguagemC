@@ -1,0 +1,2 @@
+# linguagemC
+Algumas anotações informais.
